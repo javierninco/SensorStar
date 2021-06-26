@@ -1,0 +1,20 @@
+[{
+    
+        "fecha": "2021-06-01 08:00:01",
+        "maquina": "(Bomber|122)",
+        "megatones": "(-|99)",
+        "otrodato": "(-|0)"
+    },
+    {
+        "fecha": "2021-06-01 08:00:01",
+        "maquina": "(nnn|122)",
+        "megatones": "(-|1009)",
+        "otrodato": "(-|0)"
+    },
+    {
+        "fecha": "2021-06-01 08:00:01",
+        "maquina": "(pp|122)",
+        "megatones": "(-|1009)",
+        "otrodato": "(-|0)"
+    }
+]
