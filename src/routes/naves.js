@@ -1,6 +1,7 @@
 const { Router } = require("express");
 const router=Router();
 const naves=require('../sample.json')
+
 router.get('/naves',(req,res)=>{
     res.json(naves);
 });
